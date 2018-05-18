@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Program(DrinksMachine).txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Program%28DrinksMachine%29.txt" />
+  </ItemGroup>
+
 </Project>

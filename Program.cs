@@ -3,7 +3,7 @@ using System;
 
 namespace Class_Demo
 {
-    class Program
+    static class Program
     {
         //static class that does not return any data type
         static void Main(string[] args)
