@@ -26,10 +26,10 @@ namespace Mod_2InterfaceDemo
             totalPoints += points;
             return totalPoints;
 
-            public void ResetPoints()
+           /* public void ResetPoints()
             {
                 totalPoints = 0;
-            }
+            }*/
         }
 
     }

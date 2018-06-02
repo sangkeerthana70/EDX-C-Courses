@@ -1,0 +1,22 @@
+Watch the Instructional videos at the following link to learn about the 4 main OOP concepts. After watching please create a google doc and in your own words describe each of the 4 concepts in 3 sentences or less! (the less you need to define it the better)
+1 Inheritance
+2 Polymorphism
+3 Encapsulation
+4 Abstraction -
+
+
+Inheritance
+Inheritance is the mechanism by which a class acquires  some or all properties of another class. The class that inherits properties from another class is called Sub class or Derived Class. The class whose properties are inherited by sub class is called Base Class or Super class.
+Polymorphism
+Polymorphism means to process objects differently based on their data type. In other words it means, one method with multiple implementation, for a certain class of action. And which implementation to be used is decided at runtime depending upon the situation (i.e., data type of the object)
+Example: In the legos object  there was two separate methods with two different input types that allows us to do the same operation.
+Encapsulation
+Data encapsulation, sometimes referred to as data hiding, is the mechanism whereby the implementation details of a class are kept hidden from the user.  All the operations inside the class will be known only to this class and the main class is not affected by this. The main class   expects only the outcome of that class in which data is manipulated. The advantage of using data encapsulation comes when the implementation of the class changes but the interface remains the same.
+Abstraction
+Abstraction is a process where we show only “relevant” data and “hide” unnecessary details of an object from the user. It hides the unnecessary details  from user by hiding the internal implementation of software and shows relevant data to the user by making it easy for the user.
+For example, when we login to our Amazon account online, we enter your user_id and password and press login, what happens when we press login, how the input data is sent to amazon server, how it gets verified is all abstracted away from us.
+I came up with the following hypothesis.
+The idea of abstraction  is similar to encapsulation.  
+ Abstraction hides complexity of the system by presenting to the user a simplified interface. Whereas encapsulation is all about bundling of related data and behaviour together while restricting/controlling access to them, and in the process partially or fully hiding these data. 
+
+
